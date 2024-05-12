@@ -1,0 +1,4 @@
+tech=PHP
+tech-version=php-8.1.28
+framework=Laravel
+framework-version=10
